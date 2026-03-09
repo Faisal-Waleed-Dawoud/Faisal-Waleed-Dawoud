@@ -1,16 +1,59 @@
-## Hi there 👋
+# Faisal Dawoud
 
-<!--
-**Faisal-Waleed-Dawoud/Faisal-Waleed-Dawoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Full-Stack Developer** focused on building modern web applications using **Next.js, React, and TypeScript**.
 
-Here are some ideas to get you started:
+I am currently seeking **internship opportunities** where I can contribute to real-world projects and continue improving my skills in full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,mysql,java,python" />
+</p>
+
+---
+
+## Featured Project
+
+### SCP – Summer Courses Platform
+
+A web platform designed to help university students register for **summer courses at partner universities**.
+
+**Tech Stack**
+
+* Next.js
+* React
+* TypeScript
+* MYSQL
+* Tailwind CSS
+* HTML
+
+Repository:
+https://github.com/Faisal-Waleed-Dawoud/SCP-Project
+
+---
+
+## Education
+
+**Prince Mugrin University**
+BSc in Software Engineering
+Expected Graduation: **2028**
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/faisal-dawoud/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+## GitHub Stats
+
+![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faisal-Waleed-Dawoud\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-Waleed-Dawoud\&layout=compact)
