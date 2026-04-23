@@ -32,6 +32,8 @@ A web platform designed to help university students register for **summer course
 Repository:
 https://github.com/Faisal-Waleed-Dawoud/SCP-Project
 
+Live Demo: https://summer-courses-platform.netlify.app/
+
 ---
 
 ## Education
