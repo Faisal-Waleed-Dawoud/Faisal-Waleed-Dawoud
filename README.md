@@ -6,7 +6,7 @@ I am currently seeking **internship opportunities** where I can contribute to re
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,mysql,java,python" />
@@ -14,9 +14,9 @@ I am currently seeking **internship opportunities** where I can contribute to re
 
 ---
 
-## Featured Project
+## 🚀 Featured Projects
 
-### SCP – Summer Courses Platform
+### Summer Courses Platform (SCP)
 
 A web platform designed to help university students register for **summer courses at partner universities**.
 
@@ -29,14 +29,32 @@ A web platform designed to help university students register for **summer course
 * Tailwind CSS
 * HTML
 
-Repository:
-https://github.com/Faisal-Waleed-Dawoud/SCP-Project
+#### Repository: https://github.com/Faisal-Waleed-Dawoud/SCP-Project
 
-Live Demo: https://summer-courses-platform.netlify.app/
+#### Live Demo: https://summer-courses-platform.netlify.app
 
 ---
 
-## Education
+### AI Lecture Summarizer (AILS)
+
+An AI-powered web application that helps faculty members record lectures and automatically generate structured educational content for students.
+
+
+#### Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Gemini Integration
+
+#### Repository: https://github.com/Faisal-Waleed-Dawoud/AILS
+
+#### Live Demo: https://ails.netlify.app
+
+---
+
+## 🎓 Education
 
 **Prince Mugrin University**
 BSc in Software Engineering
